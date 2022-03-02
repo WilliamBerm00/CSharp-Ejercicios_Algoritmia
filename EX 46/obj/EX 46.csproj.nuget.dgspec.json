@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\willu\\OneDrive\\Documentos\\ADSI\\ADSI\\ADSI C#-EX\\EX 46\\EX 46.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\willu\\OneDrive\\Documentos\\ADSI\\ADSI\\ADSI C#-EX\\EX 46\\EX 46.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\willu\\OneDrive\\Documentos\\ADSI\\ADSI\\ADSI C#-EX\\EX 46\\EX 46.csproj",
+        "projectName": "EX 46",
+        "projectPath": "C:\\Users\\willu\\OneDrive\\Documentos\\ADSI\\ADSI\\ADSI C#-EX\\EX 46\\EX 46.csproj",
+        "packagesPath": "C:\\Users\\willu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\willu\\OneDrive\\Documentos\\ADSI\\ADSI\\ADSI C#-EX\\EX 46\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\willu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.411\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
